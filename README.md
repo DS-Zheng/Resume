@@ -2,7 +2,32 @@
 Resume in 2024.
 
 ## Introduction
-I am an accomplished Smart Manufacturing Engineer with a unique blend of skills in industrial engineering, data science, machine learning, and data engineering. My professional journey at AUO Advanced Manufacturing Center involves developing and optimizing decision-support systems that leverage domain knowledge and advanced data analytics to enhance production processes, improve yield, and boost computational performance. With a proven track record in handling large-scale projects, I specialize in creating efficient, data-driven solutions that save significant labor hours and drive operational excellence. My ability to swiftly grasp and apply domain-specific knowledge sets me apart, making me a go-to expert for complex problem-solving and algorithm development. My academic background, featuring a Master's degree with a perfect GPA and award-winning research in data analytics, reflects my dedication to pushing the boundaries of smart manufacturing technologies.
+
+I am an **accomplished Smart Manufacturing Engineer** specializing in **industrial engineering, data science, machine learning, and data engineering**. My career is marked by a commitment to excellence and a proven ability to enhance production processes.
+
+#### Professional Journey
+
+**AUO Advanced Manufacturing Center**:
+- **Role**: Develop and optimize decision-support systems.
+- **Focus**: Leverage domain knowledge and advanced data analytics to improve yield and boost computational performance.
+
+#### Expertise & Achievements
+
+- **Large-Scale Projects**: Successfully handled multiple projects, creating efficient, data-driven solutions that save significant labor hours.
+- **Operational Excellence**: Known for driving improvements in operational efficiency and productivity.
+
+#### Key Strengths
+
+- Quick comprehension and application of **domain-specific knowledge**.
+- Expertise in **complex problem-solving** and **algorithm development**.
+
+#### Academic Background
+
+- **Master’s Degree** in Industrial Engineering and Management with a **perfect GPA** from National Yunlin University of Science and Technology.
+- **Award-Winning Research** in data analytics.
+
+My dedication to pushing the boundaries of **smart manufacturing technologies** is evident in my continuous pursuit of innovation and excellence.
+
 
 ## Education
 **Master of Industrial Engineering and Management**
