@@ -8,7 +8,7 @@ Resume in 2024.
 ## English
 ## Introduction
 
-I am an **accomplished Smart Manufacturing Engineer** specializing in **industrial engineering, data science, machine learning, and data engineering**. My career is marked by a commitment to excellence and a proven ability to enhance production processes.
+I am an **Smart Manufacturing Engineer** specializing in **industrial engineering, data science, machine learning, and data engineering**. My career is marked by a commitment to excellence and a proven ability to enhance production processes.
 
 #### Professional Journey
 
@@ -93,7 +93,7 @@ My dedication to pushing the boundaries of **smart manufacturing technologies** 
 
 ## Introduction
 
-我是一名**成就卓越的智慧製造工程師**，專精於**工業工程、數據科學、機器學習和數據工程**。我的職業生涯以追求卓越為標誌，並且具備顯著提升生產流程的能力。
+我是一名**智慧製造工程師**，專精於**工業工程、數據科學、機器學習和數據工程**。我的職業生涯以追求卓越為標誌，並且具備顯著提升生產流程的能力。
 
 #### Professional Journey
 
